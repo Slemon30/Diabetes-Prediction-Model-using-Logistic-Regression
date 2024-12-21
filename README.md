@@ -29,6 +29,17 @@ This dataset consists of 100,000 rows.
 2. Developing personalized treatment plans for patients based on their medical history.
 3. Exploring the relationships between medical and demographic factors and diabetes prevalence.
 
+### **Tech Used**
+
+Python: Core programming language used for data analysis and model implementation.
+
+#### ***Libraries and Frameworks:*** 
+
+1. NumPy: For efficient numerical computations and array manipulations.
+2. Pandas: For data cleaning, manipulation, and exploratory data analysis.
+3. Matplotlib: For visualizing the dataset and plotting key insights.
+4. Scikit-learn (sklearn): For implementing the Logistic Regression model and evaluating performance metrics.
+
 
 ### **Model Overview**
 
